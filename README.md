@@ -37,7 +37,7 @@ Back-end developer building financial systems and REST APIs with Java and Spring
 </div>
 
 <div align="center">
-  <img width="68%" src="https://streak-stats.demolab.com?user=JClemente-web&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=8b949e&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&border_radius=6" />
+  <img width="68%" src="https://streak-stats.demolab.com/?user=JClemente-web&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=8b949e&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&border_radius=6" />
 </div>
 
 ---
