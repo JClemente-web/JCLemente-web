@@ -16,7 +16,18 @@
 
 <br/>
 
-Back-end developer building financial systems and REST APIs with Java and Spring Boot. Currently studying algorithmic tape-reading for Mini Dollar (WDO) and completing a software engineering residency at Serratec.
+<div align="center">
+
+| | |
+|:---|:---|
+| **Nome** | João Vitor Clemente Ferreira |
+| **Função** | Back-end Developer |
+| **Localização** | Brasil 🇧🇷 |
+| **Foco atual** | APIs financeiras · Tape Reading (WDO) |
+| **Formação** | Economia + Gestão de RH · Técnico em TI (SENAI) |
+| **Residência** | Engenharia de Software — Serratec |
+
+</div>
 
 ---
 
