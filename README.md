@@ -1,43 +1,38 @@
-<!-- HEADER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a0a2e,60:1a1a4e,100:0d1117&height=230&section=header&text=Jo%C3%A3o%20Clemente&fontSize=62&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Finance%20%7C%20The%20Galaxy%20of%20Code%20%F0%9F%AA%90&descAlignY=58&descColor=b3c5ef" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=May+the+Code+be+with+you+%F0%9F%AA%90;Back-end+Developer+%7C+Java+%26+Spring+Boot;Finance+%2B+Technology+%3D+Power+%E2%9A%A1;Building+APIs+that+Matter+%F0%9F%9A%80;PostgreSQL+%7C+Clean+Code+%7C+Real+Value+%F0%9F%92%B9;In+a+galaxy+far+far+away...+there+was+code" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,40:050505,100:000000&height=260&section=header&text=JOÃO%20CLEMENTE&fontSize=76&fontColor=00ff41&animation=scaleIn&fontAlignY=50&desc=⚡%20Back-end%20Dev%20·%20Finance%20·%20The%20Force%20Is%20Strong%20⚡&descColor=ff6b00&descAlignY=68&descSize=18" />
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=760&height=50&lines=🚀+May+The+Code+Be+With+You;💰+Finance+%2B+Technology+%3D+The+Force;🌑+In+The+Dark+Side+Of+The+Terminal;⚡+Back-end+Engineer+Navigating+The+Stars;🪐+Cada+commit+é+uma+nova+estrela;☕+Powered+By+Coffee+%26+Passion" />
 
-<img src="https://komarev.com/ghpvc/?username=JClemente-web&style=for-the-badge&color=00d4ff&label=EXPLORERS+IN+THIS+GALAXY" />
+[![Profile Views](https://komarev.com/ghpvc/?username=JClemente-web&label=🚀+Explorers+in+This+Galaxy&color=00ff41&style=for-the-badge&labelColor=000000)](https://github.com/JClemente-web)
 
 </div>
 
----
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-## 🌌 Sobre Este Desenvolvedor
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="200" />
 
 ```yaml
-name: João Vitor Clemente Ferreira
-role: Back-end Developer
-location: Brasil 🇧🇷
-education: Bootcamp Serratec – Residência em Software
-stack: [Java, Spring Boot, PostgreSQL, React]
-passions:
-  - 💰 Mercado Financeiro & Análise Técnica
-  - 🪐 Universo & Exploração Espacial
-  - ⚔️  Star Wars & Sci-Fi
-  - 🤖 Tecnologia que muda o mundo
-quote: "Do. Or do not. There is no try." – Yoda
+╔═══════════════════════════════════════════════╗
+║          SISTEMA: JOÃO CLEMENTE v2.0          ║
+╠═══════════════════════════════════════════════╣
+║  FUNÇÃO      : Back-end Developer             ║
+║  ORIGEM      : Brazil 🇧🇷                     ║
+║  FORÇA       : Finance + Tech ⚡              ║
+║  ARMAS       : Java · Spring · PostgreSQL     ║
+║  NAVE        : IntelliJ IDEA                  ║
+║  COMBUSTÍVEL : ☕ Coffee                      ║
+║  LADO        : Dark Theme 🌑                  ║
+╠═══════════════════════════════════════════════╣
+║  MISSÕES ATIVAS:                              ║
+║  ◈ APIs REST escaláveis com Java + Spring     ║
+║  ◈ Tapereading — Tape Reading Mini Dólar WDO  ║
+║  ◈ Mercado Financeiro + IA + Análise Técnica  ║
+║  ◈ Residência em Software — Serratec          ║
+╠═══════════════════════════════════════════════╣
+║  "Do. Or do not. There is no try." — Yoda    ║
+╚═══════════════════════════════════════════════╝
 ```
 
-- 🔭 Trabalhando em **APIs REST escaláveis com Java & Spring Boot**
-- 💹 Criador do **Tapereading** — ferramenta de Tape Reading para Mini Dólar (WDO)
-- 🌱 Explorando **mercado financeiro, análise técnica e IA**
-- 🎓 Formado pelo **Serratec** (Residência em Software)
-- 🪐 *"In the galaxy of code, every commit is a new star"*
-
-<br clear="right"/>
+> 🌌 *"Na galáxia do código, cada commit é uma nova estrela"*
 
 ---
 
@@ -45,70 +40,80 @@ quote: "Do. Or do not. There is no try." – Yoda
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,js,react,html,css,python,git,github,vscode,idea,linux,docker&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,js,react,html,css,python,git,github,vscode,idea,linux,docker&theme=dark&perline=7" />
 
 <br/><br/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🌠 GitHub Stats — The Force Within
+## 📡 Central de Missão — Estatísticas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JClemente-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_radius=10" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JClemente-web&layout=compact&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_radius=10" />
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=JClemente-web&show_icons=true&theme=tokyonight&bg_color=000000&border_color=00ff41&title_color=00ff41&icon_color=ff6b00&text_color=e0e0e0&hide_border=false&border_radius=12" />
+&nbsp;&nbsp;
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JClemente-web&layout=compact&theme=tokyonight&bg_color=000000&border_color=00ff41&title_color=00ff41&text_color=e0e0e0&border_radius=12" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JClemente-web&theme=tokyonight&border=00d4ff&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=b3c5ef&dates=b3c5ef&border_radius=10" />
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=JClemente-web&theme=tokyonight&background=000000&border=00ff41&stroke=00ff41&ring=ff6b00&fire=ff6b00&currStreakLabel=00ff41&sideLabels=00ff41&dates=e0e0e0&border_radius=12" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JClemente-web&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=false&border_color=00d4ff&area_color=1a1a4e" />
-
-</div>
-
----
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-| 🌌 Projeto | 🚀 Descrição | 🛠 Tech |
-|:---|:---|:---:|
-| [📊 Tapereading-](https://github.com/JClemente-web/Tapereading-) | Tape Reading para Mini Dólar (WDO) no ProfitPro | Python · Finance |
-| [🎬 SerratecFlix API](https://github.com/JClemente-web/serratecflix-API-grupo-5) | API REST de plataforma de streaming | Java · Spring Boot |
-| [⚙️ trabalhoindividual_api](https://github.com/JClemente-web/trabalhoindividual_api) | API REST com CRUD completo e segurança | Java · Spring Boot |
-| [📚 exercicio-completos-spring](https://github.com/JClemente-web/exercicio-completos-spring) | Exercícios completos de Spring Boot | Java · Spring Boot |
-| [⚛️ React-P1](https://github.com/JClemente-web/React-P1) | Aplicação web com React | JavaScript · React |
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JClemente-web&bg_color=000000&color=00ff41&line=ff6b00&point=ffffff&area=true&hide_border=false&border_color=00ff41&radius=12&custom_title=🌌%20Data%20Visualization%20—%20Activity%20Across%20The%20Galaxy" />
 
 </div>
 
 ---
 
-## 📡 Contato — Transmissão Intergaláctica
+## 🚀 Nave Espacial Percorrendo Cada Commit
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitorclementeferreira70@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3ovitorclementeferreira-8b383625a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JClemente-web)
+<img src="https://raw.githubusercontent.com/JClemente-web/JClemente-web/output/github-contribution-grid-snake-dark.svg" alt="🚀 Nave espacial percorrendo commits" width="100%" />
+
+</div>
+
+---
+
+## 🌠 Projetos em Órbita
+
+<div align="center">
+
+| 🛸 Projeto | 🌌 Descrição | ⚡ Stack |
+|:---:|:---:|:---:|
+| [🎵 Spotify Clone](https://github.com/JClemente-web/React-P1) | Clone do login do Spotify | React + CSS Modules |
+| [📈 Tapereading](#) | Tape Reading para Mini Dólar (WDO) | Java + Spring |
+| [💹 Finance API](#) | Sistema financeiro back-end | Java + Spring + SQL |
+
+</div>
+
+---
+
+## 📡 Sintonize a Frequência
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-joaovitorclementeferreira70%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:joaovitorclementeferreira70@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Clemente-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/jo%C3%A3ovitorclementeferreira-8b383625a)
+[![GitHub](https://img.shields.io/badge/GitHub-JClemente--web-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/JClemente-web)
 
 </div>
 
@@ -116,9 +121,8 @@ quote: "Do. Or do not. There is no try." – Yoda
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=%22The+Force+will+be+with+you%2C+always.%22+%E2%80%94+Obi-Wan+Kenobi;%22In+code+we+trust.%22+%F0%9F%AA%90" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:050505,100:000000&height=130&section=footer&text=The%20Force%20Will%20Be%20With%20You.%20Always.&fontSize=22&fontColor=ff6b00&animation=fadeIn&fontAlignY=50" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=30&lines=⭐+Se+gostou%2C+deixa+uma+estrela!;🚀+Always+coding+from+the+dark+side;🌌+May+The+Force+Be+With+Your+Code" />
 
 </div>
-
-<!-- FOOTER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a4e,60:0a0a2e,100:0d1117&height=130&section=footer&animation=fadeIn" />
