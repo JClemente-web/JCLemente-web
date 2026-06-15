@@ -16,18 +16,7 @@
 
 <br/>
 
-<div align="center">
-
-| | |
-|:---|:---|
-| **Nome** | João Vitor Clemente Ferreira |
-| **Função** | Back-end Developer |
-| **Localização** | Brasil 🇧🇷 |
-| **Foco atual** | APIs financeiras · Tape Reading (WDO) |
-| **Formação** | Economia + Gestão de RH · Técnico em TI (SENAI) |
-| **Residência** | Engenharia de Software — Serratec |
-
-</div>
+Back-end developer with Java and Spring Boot, currently learning front-end with React.
 
 ---
 
