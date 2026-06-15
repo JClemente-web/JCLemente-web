@@ -40,4 +40,4 @@ Formado pelo bootcamp **Serratec** (Residência em Software), com foco em desenv
 ## 📫 Contato
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joaovitorclementeferreira70@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-clemente)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3ovitorclementeferreira-8b383625a)
